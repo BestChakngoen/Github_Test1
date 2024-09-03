@@ -9,6 +9,7 @@ namespace Github_Test1
 
         //1. “update feature1”
         //2. “update feature2”
+        //3. “update feature3”
 
 
         private GraphicsDeviceManager _graphics;
