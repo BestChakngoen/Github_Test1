@@ -6,6 +6,10 @@ namespace Github_Test1
 {
     public class Game1 : Game
     {
+
+        //1. “update feature1”
+
+
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
 
